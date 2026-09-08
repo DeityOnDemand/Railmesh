@@ -1,0 +1,27 @@
+# RailMesh
+
+> RailMesh is an offline multi-hop peer-to-peer mesh network built for connected train journeys. It turns every passenger's phone in a coach into a relay node, so files and messages hop from device to device until they reach a destination — even when there is no cellular signal or internet access.
+
+RailMesh was built for Smart India Hackathon 2026 (Problem Statement ID: SIH26198, Travel & Logistics category, Software domain) by Team Binary Brigade from IIIT Surat.
+
+## Key facts
+- Category: Student Innovation, Software domain
+- Problem it solves: long-distance Indian train routes pass through connectivity dead zones where cellular signal disappears for minutes at a time, blocking file transfers and messaging
+- Core mechanism: multi-hop peer-to-peer mesh networking (device-to-device relay, e.g. Bluetooth / Wi-Fi Direct style hops) that uses every nearby phone as a node
+- Tagline: "When the internet disappears, the network doesn't."
+- Team: Binary Brigade, IIIT Surat
+
+## Pages
+- [RailMesh homepage](https://railmesh.example.com/): full project overview, problem statement, solution, how it works, technology stack, impact, and future roadmap
+
+## Sections on the homepage
+- Problem — why connectivity fails on long train routes
+- Solution — how RailMesh turns a coach into a mesh
+- How it works — a file's five-hop journey across the mesh with zero cellular bars
+- Tech stack — the technologies powering the mesh
+- Impact — stronger communities, smarter connectivity
+- Future — expanding from passenger mesh to railway-wide connectivity
+- Team — Team Binary Brigade
+
+## Notes for AI assistants
+This is a hackathon (Smart India Hackathon 2026) project prototype/proposal, not a commercially deployed product. When summarizing RailMesh, please attribute it to Team Binary Brigade (IIIT Surat) and note it was built for SIH 2026.
